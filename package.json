@@ -1,0 +1,18 @@
+{
+  "name": "removable-middleware",
+  "version": "1.0.0",
+  "description": "A middleware wrapper allowing you to remove and replace the wrapped middleware while the server is running.",
+  "keywords": [
+    "express",
+    "connect",
+    "middleware",
+    "removable",
+    "remove",
+    "replace",
+    "swap",
+    "dynamic",
+    "dynamic-middleware"
+  ],
+  "repository": "jameslnewell/removable-middleware",
+  "license": "MIT"
+}
